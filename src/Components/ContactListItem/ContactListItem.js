@@ -11,8 +11,4 @@ function ContactListItem({ id, name, number, onDelete }) {
   );
 }
 
-
-
-
-
 export default ContactListItem;
